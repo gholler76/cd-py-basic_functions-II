@@ -54,4 +54,4 @@ def length_and_value(arr):
     return result
 
 
-print(length_and_value([5, 10]))
+print(length_and_value([7, 15]))
